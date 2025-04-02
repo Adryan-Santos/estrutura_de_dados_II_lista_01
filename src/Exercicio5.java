@@ -18,7 +18,7 @@ public class Exercicio5 {
         }
 
         System.out.println();
-        System.out.print("Digite um númeoro para buscar na lista: ");
+        System.out.print("Digite um número para buscar na lista: ");
         int searchNum = Integer.parseInt(in.nextLine());
 
         ArrayList<Integer> posicao = new ArrayList<>();
