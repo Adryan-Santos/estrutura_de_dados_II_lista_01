@@ -1,6 +1,6 @@
 # 📌 Exercícios de Estruturas de Dados II em Java
 
-Este repositório contém uma coleção de 9 exercícios resolvidos utilizando a linguagem **Java**, focados em **Estruturas de Dados II**. Os exercícios foram desenvolvidos por **Adryan Santos** e **Julia Sudário** como parte dos estudos da disciplina.
+Este repositório contém uma coleção de 9 exercícios resolvidos utilizando a linguagem **Java**, focados em **Estruturas de Dados II**. Os exercícios foram desenvolvidos por **Adryan Santos (R.A 007194)** e **Julia Sudário (R.A 007217)** como parte dos estudos da disciplina.
 
 ---
 
